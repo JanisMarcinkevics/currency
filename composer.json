@@ -1,0 +1,15 @@
+{
+    "name": "janis/currency",
+    "autoload": {
+        "psr-4": {
+            "Janis\\Currency\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JanisMarcinkevics",
+            "email": "janis.marcinkevics@gmail.com"
+        }
+    ],
+    "require": {}
+}
